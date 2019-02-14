@@ -1,0 +1,22 @@
+.contacts{
+    width:30vw;
+    border-right:5px solid #4d4498;
+    padding:1vw;
+    border-radius: 15px;
+    height: 60vw;
+    margin-bottom: 2vw;
+    margin-top: 2vw;
+    margin-left:2vw;
+    text-align: center;
+    background-color: rgba(240, 248, 255, 0.2);
+}
+.title{
+    color: aliceblue;
+}
+input{
+    background: none;
+    border-color: #4d4498;
+    border-radius: 12px;
+    color: white;
+    padding-left: 24px;
+}

@@ -1,0 +1,33 @@
+.ev{
+    background-color: rgba(240, 248, 255, 0.37);
+    width:58.5vw;
+    height: 50vw;
+    text-align: left;
+    position: absolute;
+    top: 52%;
+    left: auto;
+    right:5%;
+    transform: translateY(-50%);
+    margin-left:fill;
+    border-radius: 25px;
+}
+.noselect{
+    text-align: center;
+    padding-top: 45%;
+}
+.ev img{
+    height:300px;
+    border-radius: 18px;
+    text-align: left;
+    margin:60px;
+}
+.ev h1{
+    text-align: left;
+    position: absolute;
+    top: 25%;
+    left: auto;
+    right:20%;
+    transform: translateY(-50%);
+    margin-left:fill;
+    border-radius: 25px;
+}
